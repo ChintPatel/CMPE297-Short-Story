@@ -1,2 +1,5 @@
 # CMPE297-Short-Story
-SJSU Fall 2025 CMPE 297 Short Story: A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures
+SJSU Fall 2025 CMPE 297 Short Story: A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures  
+
+Medium Article: https://medium.com/@chint.patel/navigating-the-security-landscape-of-llm-driven-ai-agent-communication-protocols-risks-and-b5eb9ffd4e16
+
