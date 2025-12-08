@@ -4,5 +4,5 @@ SJSU Fall 2025 CMPE 297 Short Story: A Survey of LLM-Driven AI Agent Communicati
 Medium Article: https://medium.com/@chint.patel/navigating-the-security-landscape-of-llm-driven-ai-agent-communication-protocols-risks-and-b5eb9ffd4e16  
 Paper: https://arxiv.org/pdf/2506.19676  
 Youtube Video: https://youtu.be/TSgZUyv8nWo  
-Slides: https://docs.google.com/presentation/d/1cVaJyKp4cFSOmyaUG5rUg2AujVw-Y4MZvPBJMvPqdTc/edit?usp=sharing
+Slides: https://www.slideshare.net/secret/h4cP3gEX572MbF
 
